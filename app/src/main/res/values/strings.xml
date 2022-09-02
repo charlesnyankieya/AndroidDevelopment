@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="start">Start</string>
+    <string name="time">Enter time in Milliseconds</string>
+    <string name="timer">Timer</string>
+    <string name="holdingtime">00:00:00</string>
+    <string name="stop">stop</string>
+    <string name="timestart">start</string>
+    <string name="reset">Reset</string>
+</resources>
